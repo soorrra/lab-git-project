@@ -62,7 +62,7 @@ git cherry-pick 5f6210a
 git add .  
 git commit –m “”  
 git push  
-# История и восстановление изменений:
+# История и восстановление изменений
 git log --oneline --graph --all  
 git restore src/utils.py  
 git reset --hard c3040fa хэш коммита из ветки feature/multiply-numbers  
