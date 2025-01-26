@@ -3,7 +3,8 @@
 # Создание структуры проекта:
 git clone https://github.com/soorrra/lab-git-project 
 cd lab-git-project  
-mkdir src tests  
+mkdir src 
+mkdir tests  
 type nul > src/main.py  
 type nul > src/utils.py  
 type nul > tests/test_main.py  
