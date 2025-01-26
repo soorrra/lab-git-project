@@ -3,5 +3,5 @@
 def sum(a,b) :
     return a+b
 
-def milt (a,b) :
+def mult (a,b) :
     return a*b
