@@ -57,7 +57,7 @@ git rebase main
 # Работа с cherry-pick:
 git log --oneline  
 git checkout main  
-git cherry-pick <commit-hash>  
+git cherry-pick 5f6210a
 # Работа с .gitignore:
 git add .  
 git commit –m “”  
